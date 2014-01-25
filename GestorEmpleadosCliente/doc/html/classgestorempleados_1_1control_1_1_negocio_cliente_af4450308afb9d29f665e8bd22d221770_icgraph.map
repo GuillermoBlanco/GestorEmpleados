@@ -1,0 +1,12 @@
+<map id="gestorempleados.control.NegocioCliente.getinstance" name="gestorempleados.control.NegocioCliente.getinstance">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1interficie_1_1_panel___contrato.xhtml#a792633b39c1bbe386b428d3a04502322" title="gestorempleados.interficie.\lPanel_Contrato.Panel_Contrato" alt="" coords="235,5,439,46"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1interficie_1_1_panel___datos_personales.xhtml#a3c7e18bd89aaa31bb40ce20d753b4510" title="gestorempleados.interficie.\lPanel_DatosPersonales.Panel\l_DatosPersonales" alt="" coords="238,71,437,127"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1interficie_1_1_start_client.xhtml#a8fbbf7d526b86a7c9662033ca9839428" title="gestorempleados.interficie.\lStartClient.confirmaUsuario" alt="" coords="247,151,427,193"/>
+<area shape="rect" id="node5" href="$classplugins_1_1_panel___alta.xhtml#a804926b94fa2f64e79032ded83f6b1e6" title="plugins.Panel_Alta.crear\lPanel" alt="" coords="256,217,419,258"/>
+<area shape="rect" id="node6" href="$classplugins_1_1_panel___busqueda.xhtml#a8d47495fc4538acdfbc2f27cddffce0d" title="plugins.Panel_Busqueda.crear\lPanel" alt="" coords="238,282,437,323"/>
+<area shape="rect" id="node7" href="$classplugins_1_1_panel___consultas.xhtml#a2ad6c61fd3e9a34a7e31479f908be48e" title="plugins.Panel_Consultas.\lPanel_Consultas" alt="" coords="253,347,422,389"/>
+<area shape="rect" id="node8" href="$classplugins_1_1_panel___consultas.xhtml#a4072616654f5b0d96c9ba7213b140d36" title="plugins.Panel_Consultas.editar\lDatosEmpleado" alt="" coords="237,413,438,454"/>
+<area shape="rect" id="node9" href="$classplugins_1_1_panel___consultas.xhtml#aef9cb36e8db78e3bd75c3e4acf0bc9e4" title="plugins.Panel_Consultas.editar\lCVEmpleado" alt="" coords="237,478,438,519"/>
+<area shape="rect" id="node10" href="$classplugins_1_1_panel___consultas.xhtml#ad1596ee5ed80b3214b8374f3f0a97ef6" title="plugins.Panel_Consultas.editar\lContratosEmpleado" alt="" coords="237,543,438,585"/>
+<area shape="rect" id="node11" href="$classplugins_1_1_panel___registros.xhtml#aae4d01f2f3b9885bee3d9e8057cebece" title="plugins.Panel_Registros.\lPanel_Registros" alt="" coords="254,609,421,650"/>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-may-2013 23:20:29 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="gestorempleados.persistencia.Cargo" table="cargo" catalog="gestor_empleados">
+        <id name="id" type="integer">
+            <column name="Id" />
+            <generator class="assigned" />
+        </id>
+        <many-to-one name="departamento" class="gestorempleados.persistencia.Departamento" fetch="select" lazy="false">
+            <column name="Departamento" not-null="true" />
+        </many-to-one>
+        <property name="rango" type="string">
+            <column name="Rango" length="20" not-null="true" />
+        </property>
+        <property name="funcion" type="string">
+            <column name="Funcion" length="40" not-null="false" />
+        </property>
+        <property name="indGeneral" type="integer">
+            <column name="Ind_general" not-null="false" />
+        </property>
+        <property name="indPersonal" type="integer">
+            <column name="Ind_personal" not-null="false" />
+        </property>
+        <set name="contratos" table="contrato" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="Cargo" not-null="true" />
+            </key>
+            <one-to-many class="gestorempleados.persistencia.Contrato" />
+        </set>
+    </class>
+</hibernate-mapping>

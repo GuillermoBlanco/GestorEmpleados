@@ -1,0 +1,13 @@
+digraph "TrabajosEclipse" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_98386f158efa219be3c8ec4c1407fb20 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Workspace AD - DI" fontname="Helvetica", fontsize="10", URL="dir_98386f158efa219be3c8ec4c1407fb20.html"]
+  subgraph clusterdir_8187de453462a928d766a87a3db7d46d {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_8187de453462a928d766a87a3db7d46d.html"];
+    dir_8187de453462a928d766a87a3db7d46d [shape=plaintext label="TrabajosEclipse"];
+    dir_b22b8347cd64abac5540c2e6cb2973ed [shape=box label="GestorEmpleadosCliente" color="red" fillcolor="white" style="filled" URL="dir_b22b8347cd64abac5540c2e6cb2973ed.html"];
+  }
+  }
+}

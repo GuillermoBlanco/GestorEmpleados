@@ -1,0 +1,6 @@
+<map id="gestorempleados.control.iControl.getEmpleados" name="gestorempleados.control.iControl.getEmpleados">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_server.xhtml#a3e144d7e74c740ec52364663085da2dd" title="gestorempleados.control.\lNegocioServer.comprobarEmpleado" alt="" coords="225,5,453,46"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1control_1_1_negocio_server.xhtml#a85928602fd6e3567bb436724ab20b49b" title="gestorempleados.control.\lNegocioServer.modifEmpleado" alt="" coords="239,70,438,111"/>
+<area shape="rect" id="node5" href="$classgestorempleados_1_1control_1_1_negocio_server.xhtml#a30bba13c507f108f6774d8d2f2d5f851" title="gestorempleados.control.\lNegocioServer.consultaEmpleados" alt="" coords="227,135,450,177"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1conector_1_1_server_hilo.xhtml#a07af13636cbf4d5de179689508a36609" title="gestorempleados.conector.\lServerHilo.run" alt="" coords="501,70,680,111"/>
+</map>

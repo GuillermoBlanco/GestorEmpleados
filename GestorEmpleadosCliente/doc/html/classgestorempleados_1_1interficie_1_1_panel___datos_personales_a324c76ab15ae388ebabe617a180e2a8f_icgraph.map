@@ -1,0 +1,5 @@
+<map id="gestorempleados.interficie.Panel_DatosPersonales.setNss" name="gestorempleados.interficie.Panel_DatosPersonales.setNss">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#aef5bfb101a0e799608cfe0ec6322b1e1" title="gestorempleados.control.\lNegocioCliente.showDatosEmpleado" alt="" coords="261,38,496,79"/>
+<area shape="rect" id="node3" href="$classplugins_1_1_panel___busqueda.xhtml#a8d47495fc4538acdfbc2f27cddffce0d" title="plugins.Panel_Busqueda.crear\lPanel" alt="" coords="546,5,745,46"/>
+<area shape="rect" id="node4" href="$classplugins_1_1_panel___consultas.xhtml#a4072616654f5b0d96c9ba7213b140d36" title="plugins.Panel_Consultas.editar\lDatosEmpleado" alt="" coords="545,70,746,111"/>
+</map>

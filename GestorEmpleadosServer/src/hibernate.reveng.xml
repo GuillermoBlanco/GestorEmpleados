@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="gestor_empleados" match-name="cargo"/>
+  <table-filter match-catalog="gestor_empleados" match-name="contrato"/>
+  <table-filter match-catalog="gestor_empleados" match-name="departamento"/>
+  <table-filter match-catalog="gestor_empleados" match-name="empleado"/>
+  <table-filter match-catalog="gestor_empleados" match-name="fichero"/>
+</hibernate-reverse-engineering>

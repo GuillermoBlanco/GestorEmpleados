@@ -1,0 +1,5 @@
+<map id="gestorempleados.interficie.Panel_Contrato.setClausula" name="gestorempleados.interficie.Panel_Contrato.setClausula">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a548fdf8f4ed9d73843e7106774535615" title="gestorempleados.control.\lNegocioCliente.showContratoEmpleado" alt="" coords="237,38,488,79"/>
+<area shape="rect" id="node3" href="$classplugins_1_1_panel___busqueda.xhtml#a8d47495fc4538acdfbc2f27cddffce0d" title="plugins.Panel_Busqueda.crear\lPanel" alt="" coords="538,5,737,46"/>
+<area shape="rect" id="node4" href="$classplugins_1_1_panel___consultas.xhtml#ad1596ee5ed80b3214b8374f3f0a97ef6" title="plugins.Panel_Consultas.editar\lContratosEmpleado" alt="" coords="537,70,738,111"/>
+</map>

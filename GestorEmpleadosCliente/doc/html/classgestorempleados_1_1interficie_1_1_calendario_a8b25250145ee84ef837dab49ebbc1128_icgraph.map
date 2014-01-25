@@ -1,0 +1,10 @@
+<map id="gestorempleados.interficie.Calendario.setMes" name="gestorempleados.interficie.Calendario.setMes">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1interficie_1_1_panel___contrato.xhtml#a08d902782a4f582eea935773b6a49bce" title="gestorempleados.interficie.\lPanel_Contrato.setFecha_inicio" alt="" coords="238,5,445,46"/>
+<area shape="rect" id="node6" href="$classgestorempleados_1_1interficie_1_1_panel___contrato.xhtml#aa9ea22de245739cf40845c973ba59c24" title="gestorempleados.interficie.\lPanel_Contrato.setFecha_fin" alt="" coords="247,70,436,111"/>
+<area shape="rect" id="node7" href="$classgestorempleados_1_1interficie_1_1_panel___datos_personales.xhtml#a1d4382091e0ab2d5093e1ef67c3ac7e9" title="gestorempleados.interficie.\lPanel_DatosPersonales.setFecha\l_nacimiento" alt="" coords="232,136,451,192"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a548fdf8f4ed9d73843e7106774535615" title="gestorempleados.control.\lNegocioCliente.showContratoEmpleado" alt="" coords="499,42,749,83"/>
+<area shape="rect" id="node4" href="$classplugins_1_1_panel___busqueda.xhtml#a8d47495fc4538acdfbc2f27cddffce0d" title="plugins.Panel_Busqueda.crear\lPanel" alt="" coords="799,93,998,134"/>
+<area shape="rect" id="node5" href="$classplugins_1_1_panel___consultas.xhtml#ad1596ee5ed80b3214b8374f3f0a97ef6" title="plugins.Panel_Consultas.editar\lContratosEmpleado" alt="" coords="798,27,999,69"/>
+<area shape="rect" id="node8" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#aef5bfb101a0e799608cfe0ec6322b1e1" title="gestorempleados.control.\lNegocioCliente.showDatosEmpleado" alt="" coords="507,143,741,185"/>
+<area shape="rect" id="node9" href="$classplugins_1_1_panel___consultas.xhtml#a4072616654f5b0d96c9ba7213b140d36" title="plugins.Panel_Consultas.editar\lDatosEmpleado" alt="" coords="798,158,999,199"/>
+</map>

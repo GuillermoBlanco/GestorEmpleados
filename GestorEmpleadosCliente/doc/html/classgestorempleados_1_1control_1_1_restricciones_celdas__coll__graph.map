@@ -1,0 +1,3 @@
+<map id="gestorempleados.control.RestriccionesCeldas" name="gestorempleados.control.RestriccionesCeldas">
+<area shape="rect" id="node3" href="$enumgestorempleados_1_1control_1_1_restricciones_celdas_1_1tipo.xhtml" title="{gestorempleados.control.\lRestriccionesCeldas.tipo\n|+ NOMBRE\l+ APELLIDO1\l+ APELLIDO2\l+ DIRECCION\l+ POBLACION\l+ TELEFONO\l+ TITULACION\l+ NSS\l+ DNI\l+ EXPE\l+ CC\l|}" alt="" coords="140,6,308,245"/>
+</map>

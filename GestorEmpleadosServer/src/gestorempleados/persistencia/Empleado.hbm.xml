@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+                                   "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-may-2013 23:20:29 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+ <class catalog="gestor_empleados"
+  name="gestorempleados.persistencia.Empleado" table="empleado">
+  <id name="dni" type="string">
+   <column length="9" name="DNI"/>
+   <generator class="assigned"/>
+  </id>
+  <property generated="never" lazy="false" name="nss" type="integer">
+   <column name="NSS" not-null="false" unique="true"/>
+  </property>
+  <property generated="never" lazy="false" name="nombre" type="string">
+   <column length="20" name="Nombre" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="apellido1" type="string">
+   <column length="20" name="Apellido1" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="apellido2" type="string">
+   <column length="20" name="Apellido2" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="nacionalidad" type="string">
+   <column length="10" name="Nacionalidad" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="direccion" type="string">
+   <column length="40" name="Direccion" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="poblacion" type="string">
+   <column length="20" name="Poblacion" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="telefono" type="integer">
+   <column name="Telefono" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="fechaNacimiento" type="date">
+   <column length="10" name="Fecha_nacimiento" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="titulacion" type="string">
+   <column length="30" name="Titulacion" not-null="false"/>
+  </property>
+<!--   <property generated="never" lazy="false" name="idiomas" type="string"> -->
+<!--    <column length="10" name="Idiomas" not-null="false"/> -->
+<!--   </property> -->
+  <property generated="never" lazy="false" name="experiencia" type="string">
+   <column length="100" name="Experiencia" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="cuentaBancaria" type="integer">
+   <column name="Cuenta_bancaria" not-null="false"/>
+  </property>
+  <property generated="never" lazy="false" name="foto" type="binary">
+   <column name="Foto" not-null="false"/>
+  </property>
+  <set fetch="select" inverse="true" lazy="false" name="contratos" cascade="all"
+   sort="unsorted" table="contrato">
+   <key>
+    <column length="9" name="DNI" not-null="true"/>
+   </key>
+   <one-to-many class="gestorempleados.persistencia.Contrato"/>
+  </set>
+  <set fetch="select" inverse="true" lazy="false" name="idiomas" cascade="all"
+   sort="unsorted" table="idiomas">
+   <key>
+    <column name="id" not-null="true"/>
+   </key>
+   <one-to-many class="gestorempleados.persistencia.Idiomas"/>
+  </set>
+ </class>
+</hibernate-mapping>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-may-2013 23:20:29 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="gestorempleados.persistencia.Contrato" table="contrato" catalog="gestor_empleados">
+        <id name="id" type="integer">
+            <column name="Id" />
+            <generator class="native" />
+        </id>
+        <property generated="never" lazy="false" name="ficheroByFichEntidad" type="binary">
+            <column name="Fich_entidad" not-null="false"/>
+        </property>
+        <many-to-one name="cargo" class="gestorempleados.persistencia.Cargo" fetch="select" lazy="false">
+            <column name="Cargo" not-null="false" />
+        </many-to-one>
+        <property generated="never" lazy="false" name="ficheroByFichA1" type="binary">
+            <column name="Fich_A1" not-null="false"/>
+        </property>
+        <many-to-one name="empleado" class="gestorempleados.persistencia.Empleado" fetch="select">
+            <column name="DNI" length="9" not-null="true" />
+        </many-to-one>
+        <property generated="never" lazy="false" name="ficheroByFichDesplaza" type="binary">
+            <column name="Fich_desplaza" not-null="false"/>
+        </property>
+        <property name="origen" type="string">
+            <column name="Origen" length="10" not-null="true" />
+        </property>
+        <property name="modalidad" type="string">
+            <column name="Modalidad" length="10" not-null="true" />
+        </property>
+        <property name="motivo" type="string">
+            <column name="Motivo" length="20" not-null="false" />
+        </property>
+        <property name="clase" type="string">
+            <column name="Clase" length="10" not-null="false" />
+        </property>
+        <property name="periodoPrueba" type="integer">
+            <column name="Periodo_prueba" not-null="false" />
+        </property>
+        <property name="preaviso" type="integer">
+            <column name="Preaviso" not-null="true" />
+        </property>
+        <property name="clausulaComp" type="boolean">
+            <column name="Clausula_comp" not-null="true" />
+        </property>
+        <property name="fechaInicio" type="date">
+            <column name="Fecha_inicio" length="10" not-null="false" />
+        </property>
+        <property name="fechaFin" type="date">
+            <column name="Fecha_fin" length="10" not-null="true" />
+        </property>
+        <property name="causaBaja" type="string">
+            <column name="Causa_baja" length="20" not-null="false" />
+        </property>
+        <property name="activo" type="boolean">
+            <column name="Activo" not-null="false" />
+        </property>
+        <property name="salario" type="integer">
+            <column name="Salario" not-null="true" />
+        </property>
+        <property name="lugarTrabajo" type="string">
+            <column name="Lugar_trabajo" length="20" not-null="true" />
+        </property>
+        <property name="inicioDesplaza" type="date">
+            <column name="Inicio_desplaza" length="10" not-null="false" />
+        </property>
+        <property name="finDesplaza" type="date">
+            <column name="Fin_desplaza" length="10" not-null="false" />
+        </property>
+        <property name="segMedico" type="boolean">
+            <column name="Seg_medico" not-null="true" />
+        </property>
+        <property name="segVida" type="boolean">
+            <column name="Seg_vida" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

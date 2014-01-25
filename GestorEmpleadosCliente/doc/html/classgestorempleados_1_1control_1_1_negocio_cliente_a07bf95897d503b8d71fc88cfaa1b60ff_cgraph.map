@@ -1,0 +1,6 @@
+<map id="gestorempleados.control.NegocioCliente.getEmpleados" name="gestorempleados.control.NegocioCliente.getEmpleados">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1conector_1_1_conector_cliente.xhtml#a830dba55e91b371279078945cf0b84c5" title="gestorempleados.conector.\lConectorCliente.sendPacket" alt="" coords="251,37,437,78"/>
+<area shape="rect" id="node5" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#ab134a72a51ee922876f123e6162b2d2c" title="gestorempleados.conector.\lPacket.getEmpleados" alt="" coords="255,102,433,143"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#a8cb4ef0c12fd91286f0f3a63c48d40b0" title="gestorempleados.control.\lPreferencias.getHost" alt="" coords="485,5,653,46"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#ae64b723a46d579f7646e75aa453ed3c8" title="gestorempleados.control.\lPreferencias.getPort" alt="" coords="485,70,653,111"/>
+</map>

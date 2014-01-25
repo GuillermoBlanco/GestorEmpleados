@@ -1,0 +1,9 @@
+<map id="gestorempleados.control.NegocioCliente.getReporte" name="gestorempleados.control.NegocioCliente.getReporte">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#a9819f16640e628f5ed698f7ca84c4d10" title="gestorempleados.conector.\lPacket.setFiltro" alt="" coords="233,5,412,46"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1conector_1_1_conector_cliente.xhtml#a830dba55e91b371279078945cf0b84c5" title="gestorempleados.conector.\lConectorCliente.sendPacket" alt="" coords="229,70,416,111"/>
+<area shape="rect" id="node6" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#a66abee43105b5ab7eac815a088d8f861" title="gestorempleados.conector.\lPacket.getType" alt="" coords="233,135,412,177"/>
+<area shape="rect" id="node7" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#a7836f4c806840a6c75a95434cbfcd11f" title="gestorempleados.conector.\lPacket.getArchivo" alt="" coords="233,201,412,242"/>
+<area shape="rect" id="node8" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#a3ed2226bd3441b1898a8dc8e8e413c2c" title="gestorempleados.conector.\lPacket.getFiltro" alt="" coords="233,266,412,307"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#a8cb4ef0c12fd91286f0f3a63c48d40b0" title="gestorempleados.control.\lPreferencias.getHost" alt="" coords="464,38,632,79"/>
+<area shape="rect" id="node5" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#ae64b723a46d579f7646e75aa453ed3c8" title="gestorempleados.control.\lPreferencias.getPort" alt="" coords="464,103,632,145"/>
+</map>

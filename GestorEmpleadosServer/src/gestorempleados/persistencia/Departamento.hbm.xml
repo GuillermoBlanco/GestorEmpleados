@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-may-2013 23:20:29 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="gestorempleados.persistencia.Departamento" table="departamento" catalog="gestor_empleados">
+        <id name="id" type="int">
+            <column name="Id" />
+            <generator class="assigned" />
+        </id>
+        <property name="descripcion" type="string">
+            <column name="Descripcion" length="20" not-null="true" />
+        </property>
+        <set name="cargos" table="cargo" inverse="true" lazy="false" fetch="select">
+            <key>
+                <column name="Departamento" not-null="true" />
+            </key>
+            <one-to-many class="gestorempleados.persistencia.Cargo" />
+        </set>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,13 @@
+digraph "DAM2" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_b75b71b0fb7b0258bb8263c49ab2ac0e {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Dropbox" fontname="Helvetica", fontsize="10", URL="dir_b75b71b0fb7b0258bb8263c49ab2ac0e.html"]
+  subgraph clusterdir_ac5bb6e0bba134ff1fbc4b27a2245e19 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_ac5bb6e0bba134ff1fbc4b27a2245e19.html"];
+    dir_ac5bb6e0bba134ff1fbc4b27a2245e19 [shape=plaintext label="DAM2"];
+    dir_98386f158efa219be3c8ec4c1407fb20 [shape=box label="Workspace AD - DI" color="red" fillcolor="white" style="filled" URL="dir_98386f158efa219be3c8ec4c1407fb20.html"];
+  }
+  }
+}

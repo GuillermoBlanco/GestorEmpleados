@@ -1,0 +1,13 @@
+digraph "Workspace AD - DI" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_ac5bb6e0bba134ff1fbc4b27a2245e19 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="DAM2" fontname="Helvetica", fontsize="10", URL="dir_ac5bb6e0bba134ff1fbc4b27a2245e19.html"]
+  subgraph clusterdir_98386f158efa219be3c8ec4c1407fb20 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_98386f158efa219be3c8ec4c1407fb20.html"];
+    dir_98386f158efa219be3c8ec4c1407fb20 [shape=plaintext label="Workspace AD - DI"];
+    dir_8187de453462a928d766a87a3db7d46d [shape=box label="TrabajosEclipse" color="red" fillcolor="white" style="filled" URL="dir_8187de453462a928d766a87a3db7d46d.html"];
+  }
+  }
+}

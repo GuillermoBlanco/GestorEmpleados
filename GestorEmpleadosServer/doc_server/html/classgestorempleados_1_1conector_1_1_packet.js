@@ -1,0 +1,27 @@
+var classgestorempleados_1_1conector_1_1_packet =
+[
+    [ "Packet", "classgestorempleados_1_1conector_1_1_packet.xhtml#a5e7483d080e2f4eb9f2dcee720653587", null ],
+    [ "Packet", "classgestorempleados_1_1conector_1_1_packet.xhtml#aab19261682eaf4fb9580c5aabcbaf116", null ],
+    [ "Packet", "classgestorempleados_1_1conector_1_1_packet.xhtml#ae0fcdb1139b334060b6b0e189019f87e", null ],
+    [ "getArchivo", "classgestorempleados_1_1conector_1_1_packet.xhtml#a7836f4c806840a6c75a95434cbfcd11f", null ],
+    [ "getCargos", "classgestorempleados_1_1conector_1_1_packet.xhtml#aa111349617b6be8edab9540ffb1e7909", null ],
+    [ "getDepartamentos", "classgestorempleados_1_1conector_1_1_packet.xhtml#a1c66a08626625f4771d9df33efc2ca2f", null ],
+    [ "getEmpleados", "classgestorempleados_1_1conector_1_1_packet.xhtml#ab134a72a51ee922876f123e6162b2d2c", null ],
+    [ "getFiltro", "classgestorempleados_1_1conector_1_1_packet.xhtml#a3ed2226bd3441b1898a8dc8e8e413c2c", null ],
+    [ "getType", "classgestorempleados_1_1conector_1_1_packet.xhtml#a66abee43105b5ab7eac815a088d8f861", null ],
+    [ "getUser", "classgestorempleados_1_1conector_1_1_packet.xhtml#a86896692ec960631b3477ddc86c34729", null ],
+    [ "setArchivo", "classgestorempleados_1_1conector_1_1_packet.xhtml#ae348e267b7198936ad0710230a36c427", null ],
+    [ "setCargos", "classgestorempleados_1_1conector_1_1_packet.xhtml#a0ad4d9c844f83f55737a85b1d2af0a98", null ],
+    [ "setDepartamentos", "classgestorempleados_1_1conector_1_1_packet.xhtml#a970de23de6dbf0374b936d011a95ceec", null ],
+    [ "setEmpleados", "classgestorempleados_1_1conector_1_1_packet.xhtml#a813dec9a7a619b540ae0cefd73d08ca8", null ],
+    [ "setFiltro", "classgestorempleados_1_1conector_1_1_packet.xhtml#a9819f16640e628f5ed698f7ca84c4d10", null ],
+    [ "setType", "classgestorempleados_1_1conector_1_1_packet.xhtml#a8d30525a2e182092454a7b151c847821", null ],
+    [ "archivo", "classgestorempleados_1_1conector_1_1_packet.xhtml#a7d0cabd7f16ab0b6786b61f751a5f4e0", null ],
+    [ "cargos", "classgestorempleados_1_1conector_1_1_packet.xhtml#a97d8b1368e3a752446fa3b44a6539e96", null ],
+    [ "departamentos", "classgestorempleados_1_1conector_1_1_packet.xhtml#a20c3faeec4d5040db7d04433389fccdc", null ],
+    [ "empleados", "classgestorempleados_1_1conector_1_1_packet.xhtml#a20e76b7b02ce67b3249c596e4420acea", null ],
+    [ "filtro", "classgestorempleados_1_1conector_1_1_packet.xhtml#a0c545bdabb19f0ebd8fc7438a3b53479", null ],
+    [ "idiomas", "classgestorempleados_1_1conector_1_1_packet.xhtml#a50e51c8afa5b8fd90df5e57d42f7e1a1", null ],
+    [ "type", "classgestorempleados_1_1conector_1_1_packet.xhtml#a6244986edbfbe172279de4fa471f696a", null ],
+    [ "user", "classgestorempleados_1_1conector_1_1_packet.xhtml#a488ddb45800c70403fe44a1d8b6523f1", null ]
+];

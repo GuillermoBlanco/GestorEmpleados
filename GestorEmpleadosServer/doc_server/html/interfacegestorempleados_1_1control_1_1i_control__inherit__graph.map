@@ -1,0 +1,3 @@
+<map id="gestorempleados.control.iControl" name="gestorempleados.control.iControl">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_control_s_q_l.xhtml" title="{gestorempleados.control.\lControlSQL\n|&#45; sessionFactory\l|+ ControlSQL()\l+ saveEmpleado()\l+ getEmpleadoDni()\l+ getEmpleados()\l+ getDepartamentos()\l+ getCargos()\l+ getuser()\l+ getContratos()\l+ comprobarContratoActivo()\l&#45; buildSessionFactory()\l}" alt="" coords="5,235,192,459"/>
+</map>

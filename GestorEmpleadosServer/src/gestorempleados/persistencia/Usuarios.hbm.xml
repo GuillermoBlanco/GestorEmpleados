@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-may-2013 22:44:40 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="gestorempleados.persistencia.Usuarios" table="usuarios" catalog="gestor_empleados">
+        <id name="nombre" type="string">
+            <column name="Nombre" length="10" />
+            <generator class="assigned" />
+        </id>
+        <property name="pass" type="string">
+            <column name="Pass" length="10" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

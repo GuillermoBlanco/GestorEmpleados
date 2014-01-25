@@ -1,0 +1,8 @@
+<map id="gestorempleados.interficie.Panel_Contrato.Panel_Contrato" name="gestorempleados.interficie.Panel_Contrato.Panel_Contrato">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#af4450308afb9d29f665e8bd22d221770" title="gestorempleados.control.\lNegocioCliente.getinstance" alt="" coords="278,5,458,46"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a7db8dd511522eb990fd2e964e9bc5263" title="gestorempleados.control.\lNegocioCliente.getDepartamentos" alt="" coords="259,70,477,111"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1conector_1_1_conector_cliente.xhtml#a830dba55e91b371279078945cf0b84c5" title="gestorempleados.conector.\lConectorCliente.sendPacket" alt="" coords="525,37,712,78"/>
+<area shape="rect" id="node7" href="$classgestorempleados_1_1conector_1_1_packet.xhtml#a1c66a08626625f4771d9df33efc2ca2f" title="gestorempleados.conector.\lPacket.getDepartamentos" alt="" coords="529,102,708,143"/>
+<area shape="rect" id="node5" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#a8cb4ef0c12fd91286f0f3a63c48d40b0" title="gestorempleados.control.\lPreferencias.getHost" alt="" coords="760,5,928,46"/>
+<area shape="rect" id="node6" href="$classgestorempleados_1_1control_1_1_preferencias.xhtml#ae64b723a46d579f7646e75aa453ed3c8" title="gestorempleados.control.\lPreferencias.getPort" alt="" coords="760,70,928,111"/>
+</map>

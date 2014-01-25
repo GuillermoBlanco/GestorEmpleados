@@ -1,0 +1,4 @@
+<map id="gestorempleados.control.iControl.getDepartamentos" name="gestorempleados.control.iControl.getDepartamentos">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_server.xhtml#ab6d9023306b2303f81414ccecd749a62" title="gestorempleados.control.\lNegocioServer.consultaDepartamentos" alt="" coords="227,5,474,46"/>
+<area shape="rect" id="node3" href="$classgestorempleados_1_1conector_1_1_server_hilo.xhtml#a07af13636cbf4d5de179689508a36609" title="gestorempleados.conector.\lServerHilo.run" alt="" coords="523,5,701,46"/>
+</map>

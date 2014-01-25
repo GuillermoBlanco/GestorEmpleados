@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 26-may-2013 10:06:52 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="gestorempleados.persistencia.Idiomas" table="idiomas" catalog="gestor_empleados">
+        <id name="id" type="integer">
+            <column name="id" />
+            <generator class="native" />
+        </id>
+        <many-to-one name="Empleado" class="gestorempleados.persistencia.Empleado" fetch="select">
+            <column name="DNI" length="9" not-null="true" />
+        </many-to-one>    
+        <property name="idioma" type="string">
+            <column name="idioma" length="10" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

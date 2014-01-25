@@ -1,0 +1,15 @@
+<map id="gestorempleados.conector.Packet.getType" name="gestorempleados.conector.Packet.getType">
+<area shape="rect" id="node2" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#ac8ccee3f2bb015ca54c4a469d4b6b249" title="gestorempleados.control.\lNegocioCliente.setEmpleado" alt="" coords="256,38,445,79"/>
+<area shape="rect" id="node4" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a9636f9f7cd80e0eb68a18113fd3dd8ae" title="gestorempleados.control.\lNegocioCliente.modifDatosEmpleado" alt="" coords="233,169,469,210"/>
+<area shape="rect" id="node8" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#acb0bab9fbbddd5c886bc9f2ddfe6e695" title="gestorempleados.control.\lNegocioCliente.getReporte" alt="" coords="263,299,439,341"/>
+<area shape="rect" id="node11" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a11aa15a708641a8b68de872407c0acc9" title="gestorempleados.control.\lNegocioCliente.validateId" alt="" coords="267,369,435,410"/>
+<area shape="rect" id="node13" href="$classgestorempleados_1_1control_1_1_negocio_cliente.xhtml#a47fbb19a34ae4e6d107295cb2feda080" title="gestorempleados.control.\lNegocioCliente.validateUser" alt="" coords="259,442,442,483"/>
+<area shape="rect" id="node3" href="$classplugins_1_1_panel___alta.xhtml#a804926b94fa2f64e79032ded83f6b1e6" title="plugins.Panel_Alta.crear\lPanel" alt="" coords="537,5,700,46"/>
+<area shape="rect" id="node5" href="$classplugins_1_1_panel___consultas.xhtml#a4072616654f5b0d96c9ba7213b140d36" title="plugins.Panel_Consultas.editar\lDatosEmpleado" alt="" coords="518,70,719,111"/>
+<area shape="rect" id="node6" href="$classplugins_1_1_panel___consultas.xhtml#aef9cb36e8db78e3bd75c3e4acf0bc9e4" title="plugins.Panel_Consultas.editar\lCVEmpleado" alt="" coords="518,135,719,177"/>
+<area shape="rect" id="node7" href="$classplugins_1_1_panel___consultas.xhtml#ad1596ee5ed80b3214b8374f3f0a97ef6" title="plugins.Panel_Consultas.editar\lContratosEmpleado" alt="" coords="518,201,719,242"/>
+<area shape="rect" id="node9" href="$classplugins_1_1_panel___busqueda.xhtml#a8d47495fc4538acdfbc2f27cddffce0d" title="plugins.Panel_Busqueda.crear\lPanel" alt="" coords="519,266,718,307"/>
+<area shape="rect" id="node10" href="$classplugins_1_1_panel___registros.xhtml#aae4d01f2f3b9885bee3d9e8057cebece" title="plugins.Panel_Registros.\lPanel_Registros" alt="" coords="535,331,702,373"/>
+<area shape="rect" id="node12" href="$classgestorempleados_1_1interficie_1_1_panel___datos_personales.xhtml#a3c7e18bd89aaa31bb40ce20d753b4510" title="gestorempleados.interficie.\lPanel_DatosPersonales.Panel\l_DatosPersonales" alt="" coords="519,397,718,453"/>
+<area shape="rect" id="node14" href="$classgestorempleados_1_1interficie_1_1_start_client.xhtml#a8fbbf7d526b86a7c9662033ca9839428" title="gestorempleados.interficie.\lStartClient.confirmaUsuario" alt="" coords="529,478,709,519"/>
+</map>
