@@ -15,4 +15,4 @@ Una máquina con 512 MB de RAM y un espacio en disco de 256MB.
 Para una configuración cliente servidor sobre una red LAN el requerimiento para ambas
 máquinas es el mismo.
 
-<a href="http://www.w3schools.com/" target="_blank">Gestor empleados Cliente - Documentación</a>
+<a href="http://www.guillermoblancomartinez.com/doc/doc_cliente/html/index.xhtml" target="_blank">Gestor empleados Cliente - Documentación</a>
